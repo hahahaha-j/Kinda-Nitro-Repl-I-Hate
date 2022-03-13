@@ -1,21 +1,31 @@
 # How to host this bot:
 
-## If you are on GitHub:
+Generate a bot token from the [Discord developer portal](https://discord.com/developers)
+
+**You can also watch [this video](https://youtu.be/5zm_yV3H4IA) for better examples. **
+
+Click on "New Application"
+
+Name it whatever you want. 
+
+You can type in the about me section of the bot. 
+
+Then click on the bots tab on the side of the portal
+
+Click "Regenerate Token". 
+
+COPY THAT TOKEN AND PASTE IT IN A NOTES APP OR WHATEVER, BUT SAVE IT!
+
 ### If you want to host on the cloud:
-[Click here](https://replit.com/github/)
+[Click here](https://replit.com/github/TheCatsMoo/Kinda-Nitro)
 
-Fork this repl
-![fork repl](https://i.ibb.co/kyXm1ZX/Screen-Shot-2022-03-12-at-4-13-52-PM.png)
-
-Check your DMs from TheCatsMoo
-
-There you will find a token for your bot!
+Make an account
 
 Click the lock icon on the side of the replit page. 
 
-In the box that says `key` type ``TOKEN``
+In the box that says `key` type the word ``TOKEN``
 
-In the box that says `value` paste the token you got from TheCatsMoo
+In the box that says `value` paste the token you got from the developer portal
 
 Click `Add new secret`
 
@@ -37,4 +47,4 @@ Watch [this video](https://youtu.be/dEQGTR_RVlU) on how to set up hosting.
 
 In the console tab, you should have gotten an invite link for the bot. Click that, and add it to any server!
 
-## Thank you so much! If anything comes up, please let me know!
+## Thank you so much! If anything comes up, please [let me know on discord](https://discord.com/users/788148692196261960)!
