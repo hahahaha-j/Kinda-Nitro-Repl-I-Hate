@@ -2,6 +2,8 @@
 
 If you want to jump strait to local hosting, click [here](https://github.com/TheCatsMoo/Kinda-Nitro#local-hosting)
 
+If you don't want to host the bot, click [here](https://discord.com/oauth2/authorize?client_id=952313154547875850&permissions=8&scope=bot%20applications.commands) to invite a public version of the bot. 
+
 Generate a bot token from the [Discord developer portal](https://discord.com/developers)
 
 **You can also watch [this video](https://youtu.be/5zm_yV3H4IA) for better examples.**
