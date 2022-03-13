@@ -19,7 +19,7 @@ async def nitro(ctx, msg):
 
 @client.slash_command(name = "invite", description = "Send an invite on how to host the bot!")
 async def inv(ctx):
-  await ctx.send("https://github.com/TheCatsMoo/Kinda Nitro", ephemeral = True)
+  await ctx.send("https://github.com/TheCatsMoo/Kinda-Nitro", ephemeral = True)
 
 
 async def get_hook(message):
