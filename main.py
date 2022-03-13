@@ -17,6 +17,11 @@ async def nitro(ctx, msg):
     await webhook.send(content = msg, username = ctx.user.display_name, allowed_mentions = discord.AllowedMentions.none())
   await ctx.send("Done!", ephemeral=True)
 
+@client.slash_command(name = "invite", description = "Send an invite on how to host the bot!")
+async def inv(ctx):
+  await ctx.send("https://github.com/TheCatsMoo/Kinda Nitro", ephemeral = True)
+
+
 async def get_hook(message):
   x = False
   webhooks = await message.channel.webhooks()

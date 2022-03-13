@@ -47,4 +47,19 @@ Watch [this video](https://youtu.be/dEQGTR_RVlU) on how to set up hosting.
 
 In the console tab, you should have gotten an invite link for the bot. Click that, and add it to any server!
 
+## Local Hosting
+`git clone github.com/TheCatsMoo/Kinda-Nitro.git`
+
+Make a .env file with the value `TOKEN={your bot's token}`
+
+Run `pip install nextcord`
+
+Delete ```py
+import server
+server.go()```
+
+Delete `server.py`
+
+then run `python main.py`
+
 ## Thank you so much! If anything comes up, please [let me know on discord](https://discord.com/users/788148692196261960)!
