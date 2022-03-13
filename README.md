@@ -1,8 +1,10 @@
 # How to host this bot:
 
+If you want to jump strait to local hosting, click [here](https://github.com/TheCatsMoo/Kinda-Nitro#local-hosting)
+
 Generate a bot token from the [Discord developer portal](https://discord.com/developers)
 
-**You can also watch [this video](https://youtu.be/5zm_yV3H4IA) for better examples. **
+**You can also watch [this video](https://youtu.be/5zm_yV3H4IA) for better examples.**
 
 Click on "New Application"
 
